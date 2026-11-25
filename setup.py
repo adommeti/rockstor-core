@@ -41,7 +41,7 @@ setup(
   dependency_links = ['http://rockstor.com/downloads/gevent-socketio-0.3.6.tgz'],
 
   install_requires=[
-    'django == 1.4.3',
+    'django == 5.2.17',
     'distribute >= 0.6.35',
     'URLObject == 2.1.1',
     'djangorestframework == 2.1.15',
