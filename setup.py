@@ -49,7 +49,7 @@ setup(
     'django-pipeline == 1.2.23',
     'socketIO-client == 0.3',
     'gevent-socketio == 0.3.6',
-    'requests == 1.1.0',
+    'requests == 2.33.0',
     'pyzmq == 13.0.0',
     'South == 0.7.6',
   ]
