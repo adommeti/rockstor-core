@@ -44,7 +44,7 @@ setup(
     'django == 1.4.3',
     'distribute >= 0.6.35',
     'URLObject == 2.1.1',
-    'djangorestframework == 2.1.15',
+    'djangorestframework == 3.18.2',
     'pytz',
     'django-pipeline == 1.2.23',
     'socketIO-client == 0.3',
